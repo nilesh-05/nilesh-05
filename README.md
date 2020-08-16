@@ -5,6 +5,7 @@
 
 - 👯 I’m looking to collaborate on ...
 
+- 💬 Ask me about any tech stuff going on.
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:
 -->
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning ReactJS.
-- 💬 Ask me about any tech stuff going on.
 - 📫 How to reach me: LinkedIn - [Nilesh](https://www.linkedin.com/in/nileshsharma56) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Well, I'll tell you one if I think enough on this.
