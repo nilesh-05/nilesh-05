@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn - [Nilesh](https://www.linkedin.com/in/nileshsharma56) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Well, I'll tell you one if I think enough on this.
+<br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-05&theme=light&hide_langs_below=1" />
 <img src="https://github-readme-stats.vercel.app/api?username=nilesh-05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
