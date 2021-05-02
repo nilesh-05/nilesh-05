@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-8892BF.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/react-4479A1.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/linux-FB7A24.svg?&style=for-the-badge&logo=linux&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/flutter-FB7A24.svg?&style=for-the-badge&logo=linux&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/docker-F7DF1E.svg?&style=for-the-badge&logo=docker&logoColor=blue" height="25"/>
   <p/>
 <img src="https://github-readme-stats.vercel.app/api?username=nilesh-05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
