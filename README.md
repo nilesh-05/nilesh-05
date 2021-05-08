@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning Next.js .
-- 📫 How to reach me: LinkedIn - [Nilesh](https://www.linkedin.com/in/nileshsharma56) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Well, I'll tell you one if I think enough on this.
+- 📫 How to reach me: LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nileshsharma56))](https://www.linkedin.com/in/nileshsharma56)
 <br/>
 
 <hr>
