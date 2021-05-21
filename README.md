@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning Next.js .
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Well, I'll tell you one if I think enough on this.
+- ⚡ Fun fact: I love to spend my time on things that I know I would regret later.
 - 📫 How to reach me: LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nileshsharma56))](https://www.linkedin.com/in/nileshsharma56)  [![Gmail Badge](https://img.shields.io/badge/-nilesh.s0506@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilesh.s0506@outlook.com)](mailto:nilesh.s0506@outlook.com)
 <br/>
 
