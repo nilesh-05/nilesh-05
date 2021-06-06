@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my Java skills
-- 🌱 I’m currently learning Next.js .
+- 🌱 I’m currently learning Cross Platform Dev.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to spend my time on things that I know I would regret later.
 - 📫 How to reach me: LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nileshsharma56))](https://www.linkedin.com/in/nileshsharma56)  [![Gmail Badge](https://img.shields.io/badge/-nilesh.s0506@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilesh.s0506@outlook.com)](mailto:nilesh.s0506@outlook.com)
