@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **nilesh-05/nilesh-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
+<h1 align="center"> 👋 </h1>
 
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning Cross Platform Dev.
@@ -37,3 +38,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  
 <img src="https://github-readme-stats.vercel.app/api?username=nilesh-05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-05&hide=TeX&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-05)
