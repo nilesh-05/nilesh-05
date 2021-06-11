@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> Hi there 👋 </h1>
 
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning Cross Platform Dev.
