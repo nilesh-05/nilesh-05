@@ -37,4 +37,19 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  
-<img src="https://github-readme-stats.vercel.app/api?username=nilesh-05&count_private=true&show_icons=true&include_all_commits=true&theme=outrun">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nilesh-05&count_private=true&show_icons=true&include_all_commits=true&theme=outrun"> -->
+
+
+### 📈 **Github Stats**
+<div float= "left">
+<a href="https://github.com/ssbeast">
+<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh-05&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+  </a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-05&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
+  </a>
+</div>
+
+### **Activity Graph**
+
+![ github activity graph](https://activity-graph.herokuapp.com/graph?username=nilesh-05&theme=github&area=true)]
