@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ![ github activity graph](https://activity-graph.herokuapp.com/graph?username=nilesh-05&theme=github&area=true)
 
-![Profile views](https://gpvc.arturio.dev/nilesh-05)  <img src="https://img.shields.io/github/followers/nilesh-05?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/nilesh-05)  
