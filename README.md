@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on ...
 
-- 💬 Ask me about any tech stuff going on.
+
 - 🤔 I’m looking for help with ...
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-05&theme=light&hide_langs_below=1" />
 Here are some ideas to get you started:
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate in MERN stack and Java.
 - 😄 Pronouns: He/His
+- 💬 Ask me about any tech stuff going on.
 - ⚡ Fun fact: I love to spend my time on things that I know I would regret later.
 - 📫 How to reach me: <br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nileshsharma56))](https://www.linkedin.com/in/nileshsharma56)  [![Gmail Badge](https://img.shields.io/badge/-nilesh.s0506@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilesh.s0506@outlook.com)](mailto:nilesh.s0506@outlook.com) 
