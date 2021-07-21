@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### **Activity Graph**
+### 📈 **Activity Graph**
 
 ![ github activity graph](https://activity-graph.herokuapp.com/graph?username=nilesh-05&theme=github&area=true)
 
