@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nileshsharma56))](https://www.linkedin.com/in/nileshsharma56)  [![Gmail Badge](https://img.shields.io/badge/-nilesh.s0506@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilesh.s0506@outlook.com)](mailto:nilesh.s0506@outlook.com) 
 <br/>
 
+<a target="_blank" href="https://nilesh-05.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+
 <hr>
 
 ## ⚡ Technologies
@@ -58,5 +60,4 @@ Here are some ideas to get you started:
 ![ github activity graph](https://activity-graph.herokuapp.com/graph?username=nilesh-05&theme=github&area=true)
 
 ![Profile views](https://gpvc.arturio.dev/nilesh-05)  
-
-<a target="_blank" href="https://nilesh-05.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+	
