@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> Hi there 👋 </h1>
+<br>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning React Native.
