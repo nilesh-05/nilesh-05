@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - 💬 Ask me about any tech stuff going on.
 - ⚡ Fun fact: I love to spend my time on things that I know I would regret later.
+- 👨‍💻 My Portfolio - <a target="_blank" href="https://nilesh-05.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" height="20px" ></img></a>
 - 📫 How to reach me: <br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nileshsharma56))](https://www.linkedin.com/in/nileshsharma56)  [![Gmail Badge](https://img.shields.io/badge/-nilesh.s0506@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilesh.s0506@outlook.com)](mailto:nilesh.s0506@outlook.com) 
 <br/>
 
-<a target="_blank" href="https://nilesh-05.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+
 
 <hr>
 
