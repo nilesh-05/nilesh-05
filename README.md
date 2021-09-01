@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 <!--
 **nilesh-05/nilesh-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/nilesh-05">
 <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh-05&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
   </a>
-<a href="https://github.com/remcohalman/github-readme-stats">
+<a href="https://github.com/nilesh-05">
 <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-05&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact&theme=dark" />
   </a>
 </div>
