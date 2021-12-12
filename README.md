@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my Java skills
+- ✈️ Hire me for remote work & internships
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate in MERN stack and Java.
 - 😄 Pronouns: He/His
